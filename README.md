@@ -4,7 +4,7 @@ Create two lists from two different sources
 
 ## Run the project
 
-- Fork the projet
+- Fork the project
 - npm install
 - npm start
 
